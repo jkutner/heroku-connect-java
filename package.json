@@ -8,6 +8,10 @@
     "test": "mocha",
     "depcheck": "depcheck || true"
   },
+  "files": [
+    "commands",
+    "index.js"
+  ],
   "keywords": [
     "heroku",
     "cli",
